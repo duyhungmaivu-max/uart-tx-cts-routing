@@ -1,0 +1,19 @@
+# OpenROAD databases and generated layout
+*.odb
+*.def
+*.guide
+*.spef
+*.sdf
+
+# Generated logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*~
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
