@@ -17,3 +17,7 @@
 # Python cache
 __pycache__/
 *.pyc
+
+# Generated netlists and reports
+netlist/
+reports/
